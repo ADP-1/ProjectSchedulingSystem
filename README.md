@@ -3,7 +3,6 @@
 [![Java](https://img.shields.io/badge/Java-17-orange.svg)](https://www.oracle.com/java/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue.svg)](https://www.postgresql.org/)
 [![Maven](https://img.shields.io/badge/Maven-3.8+-red.svg)](https://maven.apache.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > A Java-based automated project scheduling system that optimizes weekly task allocation to maximize revenue while respecting project deadlines.
 
@@ -384,4 +383,3 @@ Contributions are welcome! Please follow these steps:
 Made with Aditya Pandey
 
 </div>
-```
